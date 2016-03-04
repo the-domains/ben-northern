@@ -1,7 +1,7 @@
 name: ben-northern
 favicon: null
-layout_spectrum: 0.27103030937723815
-typography_spectrum: 0.5324377759825438
+layout_spectrum: 0
+typography_spectrum: 0.23273
 title: Ben Northern Fine Arts
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#05080d'
+    - '#192f6b'
+    - '#dfe4f6'
+    - '#3768a7'
+    - '#929cca'
   brandStrength: 0.0762518816627562
   lightness: 0.43125378829427063
   saturation: 0.1409762278199196
