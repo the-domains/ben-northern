@@ -1,0 +1,28 @@
+name: ben-northern
+favicon: null
+layout_spectrum: 0.27103030937723815
+typography_spectrum: 0.5324377759825438
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.0762518816627562
+  lightness: 0.43125378829427063
+  saturation: 0.1409762278199196
+  rhythmicContrast: 0.17381687415763736
+purpose: []
